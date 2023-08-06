@@ -62,12 +62,6 @@
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="./icons/IDEA-logo.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://selenide.org/" target="_blank" rel="noreferrer"> <img src="./icons/selenide-logo.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://aerokube.com/selenoid/" target="_blank" rel="noreferrer"> <img src="./icons/selenoid-logo.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="./icons/gradle-logo.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="./icons/junit5-logo.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://docs.qameta.io/allure-report/" target="_blank" rel="noreferrer"> <img src="./icons/allure-Report-logo.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://qameta.io/" target="_blank" rel="noreferrer"> <img src="./icons/allure-ee-logo.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="./icons/jenkins-logo.svg" alt="figma" width="30" height="40"/> </a> 
 <a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"> <img src="./icons/jira-logo.svg" alt="figma" width="30" height="40"/> </a> 
 </p>
